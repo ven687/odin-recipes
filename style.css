@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(177, 174, 174);
+    text-align: center;
+}
+
+.food {
+    height: 300px;
+    width: 500px;
+}
+
+.list {
+    display: table;
+    margin: 0 auto;
+    text-align: left;
+}
+
+h1 {
+    font-size: 48px;
+}
+
+.label {
+    font-size: 32px;
+}
+
+p,
+.list {
+    font-size: 18px;
+}
+
+.link {
+    font-size: 24px;
+}
